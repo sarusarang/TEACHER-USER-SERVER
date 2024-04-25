@@ -1,40 +1,4 @@
 {
-  "Userdata": [
-    {
-      "name": "IRON MAN",
-      "email": "sarangsaru66@gmail.com",
-      "pass": "1234",
-      "history": [],
-      "profile": [
-        {
-          "profile1": "IRON MAN"
-        }
-      ],
-      "id": 3
-    },
-    {
-      "name": "Sarang A",
-      "email": "sarangsaru445@gmail.com",
-      "pass": "123",
-      "history": [],
-      "profile": [
-        {
-          "profile1": "Sarang A"
-        }
-      ],
-      "id": 4
-    },
-    {
-      "name": "nick",
-      "email": "sarangsaru447@gmail.com",
-      "pass": "12345",
-      "history": [],
-      "profile": [
-        {
-          "profile1": "nick"
-        }
-      ],
-      "id": 5
-    }
-  ]
+  "Userdata": [],
+  "Banner":[]
 }
